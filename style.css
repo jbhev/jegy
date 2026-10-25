@@ -1,7 +1,13 @@
-.jegy{
+.jegy label{
     display: block;
 }
-.berlet{
+.jegy button{
+    display: block;
+}
+.berlet button{
+    display: block;
+}
+.berlet label{
     display: block;
 }
 footer{
