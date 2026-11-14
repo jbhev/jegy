@@ -1,4 +1,4 @@
-window.onload{
+window.onload = function() {
     Change1();
 }
 function Change1() {
