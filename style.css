@@ -1,8 +1,11 @@
 #jegy label, #jegy button{
     display: block;
 }
-#berlet label, #berlet button, #berlet select{
+#berlet{
     display: none;
+}
+#berlet label, #berlet button, #berlet select{
+    display: block;
 }
 footer{
     text-align: center;
